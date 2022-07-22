@@ -1,8 +1,8 @@
 # motorcycle-game-lp
 
-A game to a college subject (Linguagens de Programação). 
+A game to a college subject (Linguagens de Programação) using HTML, CSS and JavaScript. 
 
-You can test and enjoy here:https://emersonlaranja.github.io/motorcycle-game-lp/
+You can test and enjoy here: https://emersonlaranja.github.io/motorcycle-game-lp/
 
 ## Authors
 
