@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  font-family: monospace;
+  font-size: 1.25em;
+  overflow-x: hidden;
+  background-color: black;
+}
+
+#instructions {
+  color: white;
+  margin-left: 32px;
+}
